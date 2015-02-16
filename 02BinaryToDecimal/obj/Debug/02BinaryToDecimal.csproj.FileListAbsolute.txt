@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\02BinaryToDecimal\bin\Debug\02BinaryToDecimal.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\02BinaryToDecimal\bin\Debug\02BinaryToDecimal.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\02BinaryToDecimal\bin\Debug\02BinaryToDecimal.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\02BinaryToDecimal\obj\Debug\02BinaryToDecimal.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\02BinaryToDecimal\obj\Debug\02BinaryToDecimal.pdb

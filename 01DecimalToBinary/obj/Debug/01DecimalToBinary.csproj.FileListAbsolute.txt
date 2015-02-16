@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.pdb

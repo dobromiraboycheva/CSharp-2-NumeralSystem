@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\03DecimalToHexadecimal\bin\Debug\03DecimalToHexadecimal.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\03DecimalToHexadecimal\bin\Debug\03DecimalToHexadecimal.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\03DecimalToHexadecimal\obj\Debug\03DecimalToHexadecimal.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\03DecimalToHexadecimal\obj\Debug\03DecimalToHexadecimal.pdb

@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\05HexadecimalToBbinary\bin\Debug\05HexadecimalToBbinary.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\05HexadecimalToBbinary\bin\Debug\05HexadecimalToBbinary.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\05HexadecimalToBbinary\obj\Debug\05HexadecimalToBbinary.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\NumeralSystems\05HexadecimalToBbinary\obj\Debug\05HexadecimalToBbinary.pdb
